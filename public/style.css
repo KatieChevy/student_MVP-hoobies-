@@ -1,0 +1,19 @@
+#container {
+    align-items: center;
+    width: 800px;
+    margin:  auto;
+    background-color: #d0d9cf;
+    /* align-items: center;
+    width: 800px;
+    margin:  auto;
+    background-color: #d0d9cf; */
+}
+body {
+    background: radial-gradient(circle, rgb(41, 84, 63), white);
+   
+  }
+  /* .form-group {
+   
+
+
+  } */
